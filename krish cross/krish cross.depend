@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1576247961 source:f:\c programming\game\krish cross\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1576178446 source:f:\c programming\game\krish cross\file to display.c
+	<stdio.h>
+	<conio.h>
+
+1576247961 source:f:\programming\c programming\game\krish cross\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1576247961 source:f:\my programming\programming\c programming\game\krish cross\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
